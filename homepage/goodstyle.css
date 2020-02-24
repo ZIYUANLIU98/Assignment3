@@ -30,17 +30,19 @@ div {
     float:right;
 }
 .header {
-    background: linear-gradient(to right,lightblue,white);
+    background: gray;
     width: 100%;
 }
 .links{
-    background: linear-gradient(to right,lightblue,white);
+    background: lightblue;
     text-align: center;
 }
 a{padding:0 10px;}
 
 body{
-    margin-left: auto;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: lightslategray;
 }
 
 img{
@@ -49,8 +51,7 @@ img{
 
 .sidebar{
     float: left;
-    width: 200px;
     height: 100%;
-    background: gray;
+    background: lightgray;
     bottom: 0;
 }
