@@ -54,3 +54,10 @@ body {
     font-size:20px;
     color:purple;
 }
+
+a{
+    color: black;
+}
+.links{
+    background-color: brown;
+}

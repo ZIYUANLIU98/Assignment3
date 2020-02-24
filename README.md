@@ -20,6 +20,7 @@ Changes:
 3. Changed the color and font of headers
 4. Changed the shape of images
 5. Changed the color of figure captions
+
 =================
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
