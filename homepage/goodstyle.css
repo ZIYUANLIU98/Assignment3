@@ -46,3 +46,11 @@ body{
 img{
     image-orientation: from-image;
 }
+
+.sidebar{
+    float: left;
+    width: 200px;
+    height: 100%;
+    background: gray;
+    bottom: 0;
+}
