@@ -12,14 +12,14 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
-License/Copyright
-
 Changes:
 1. Changed the background color to light-yellow
 2. Changed the font of paragraphs
 3. Changed the color and font of headers
 4. Changed the shape of images
 5. Changed the color of figure captions
+
+License/Copyright
 
 =================
 
